@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "nombre": "Laptop HP Pavilion",
+      "precio": 799.99,
+      "descuento": 10,
+      "existencia": 15
+    },
+    {
+      "id": 2,
+      "nombre": "Monitor Samsung 27\"",
+      "precio": 249.99,
+      "descuento": 5,
+      "existencia": 23
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Mecánico Logitech",
+      "precio": 129.99,
+      "descuento": 15,
+      "existencia": 8
+    },
+    {
+      "id": 4,
+      "nombre": "Mouse Gamer Razer",
+      "precio": 59.99,
+      "descuento": 0,
+      "existencia": 42
+    },
+    {
+      "id": 5,
+      "nombre": "Auriculares Inalámbricos Sony",
+      "precio": 179.99,
+      "descuento": 20,
+      "existencia": 5
+    }
+  ]
